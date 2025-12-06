@@ -1,3 +1,3 @@
 # inventory--system
 Members:
-Jan Matthew Vargas
+Jan Matthew Vargas (Backend Dev)
