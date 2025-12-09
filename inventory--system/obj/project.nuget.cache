@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+MvpVQ1jFvw=",
+  "success": true,
+  "projectFilePath": "/workspaces/inventory--system/inventory--system/inventory--system.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.windowsdesktop.app.ref/8.0.21/microsoft.windowsdesktop.app.ref.8.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
